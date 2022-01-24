@@ -1,14 +1,27 @@
-languageCode = "en-us"
-title = ":j77"
 baseurl = "https://www.j77.nl/"
+title = ":j77"
+languageCode = "en-us"
+disqusShortname = "j77"
+#copyright = "Copyright (c) 2008 - 2022; all rights reserved."
+MetaDataFormat = "toml"
 
 theme = "hyde-1.1.0"
 
 [Menus]
   main = [
- #     {Name = "Github", URL = "https://github.com/username/"},
- #     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+#     {Name = "Github", URL = "https://github.com/username/"},
+#     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
   ]
 
 [params]
   description = "To Whom It May Concern"
+  
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
