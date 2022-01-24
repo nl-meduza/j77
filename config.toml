@@ -1,0 +1,14 @@
+languageCode = "en-us"
+title = ":j77"
+baseurl = "https://www.j77.nl/"
+
+theme = "hyde-1.1.0"
+
+[Menus]
+  main = [
+ #     {Name = "Github", URL = "https://github.com/username/"},
+ #     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+  ]
+
+[params]
+  description = "To Whom It May Concern"
