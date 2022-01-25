@@ -1,7 +1,7 @@
 baseurl = "https://www.j77.nl/"
 title = ":j77"
 languageCode = "en-us"
-disqusShortname = "j77"
+#disqusShortname = "j77"
 #copyright = "Copyright (c) 2008 - 2022; all rights reserved."
 MetaDataFormat = "toml"
 
