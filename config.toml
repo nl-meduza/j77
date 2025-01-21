@@ -5,7 +5,7 @@ languageCode = "en-us"
 #copyright = "Copyright (c) 2008 - 2022; all rights reserved."
 MetaDataFormat = "toml"
 
-theme = "hyde-1.1.0"
+theme = "hyde-1.3.0"
 
 [Menus]
   main = [
